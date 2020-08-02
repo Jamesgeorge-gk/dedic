@@ -1,0 +1,172 @@
+.a{
+    text-align: center;
+    color:mediumblue;
+    text-transform:inherit;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px 10px red;
+    font-size:50px;
+    line-height: 30px;
+    }
+    .b{
+        text-align: center;
+    color:orangered;
+    text-transform:inherit;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 10px cyan;
+    font-size:20px;
+    line-height: 30px;
+    
+    } 
+    .hh{display: inline-block;
+        width:400px;
+        height: 300px;
+        border: 10px solid red;
+        border-radius: 50px;
+        box-shadow: 10px 10px 10px blue;
+        margin-left: 450px;
+        margin-top: 20px;
+       
+    }
+    .c{
+
+        color:red;
+    }
+    .interest{
+        color: rgb(0, 174, 255);
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: saddlebrown;
+        letter-spacing: 30px;
+        }
+         .lp{
+
+background-color: green;
+
+         }
+    .list{
+        float: left;
+        padding: 40px;
+        margin-left: 80px;
+        text-align: center;
+        color: red;
+       font-family: cursive;
+       font-size: larger;
+       background-color: rgb(96, 244, 96);
+       margin-right: 30px;
+       border: 2px solid black;
+       text-shadow: 2px 3px 3px blueviolet;
+       font-weight: bold;
+       
+    }
+    .pic{
+    text-align: center;
+    margin-top: 200px;
+    color: darkblue;
+    font-size: larger;
+    padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: palevioletred;
+        letter-spacing: 10px;
+    }
+    .snap{
+        display: inline-block;
+        width:400px;
+        height: 300px;
+        border: 10px solid red;
+        border-radius: 50px;
+        box-shadow: 10px 10px 10px blue;
+        margin-left: 45px;
+        margin-top: 20px;
+        float: left;
+    }
+    .heaven{
+
+        text-align: center;
+        color: darkgreen;
+        line-height: 400px;
+        letter-spacing: 1px;
+      text-shadow: 2px 2px 10px darkturquoise;
+      padding-left: 30px;
+      padding-right: 60px;
+      
+    }
+    .appu{
+        width:550px;
+        height: 500px;
+        margin-left: 400px;
+        margin-top: 19px;
+        border: 10px outset darkgoldenrod;
+        background-color: green;
+
+    }
+    .dj{
+         margin:2000px;
+         margin-left: 600px;
+        color: purple;
+        text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: larger;
+        letter-spacing: 10px;
+    }
+    .content{
+        word-spacing: 15px;
+        border:15px groove yellow;
+        margin-top: 10px;
+        background-color: tomato;
+        
+    }
+    .button
+    {display: inline-block;
+        margin: 30px;
+        
+        color: crimson;
+        padding: 20px;
+        margin-left: 650px;
+        background-color: gold;
+        
+      
+       
+    }
+    .text{
+
+        display: inline-block;
+        color: red;
+        margin-left: 590px;
+        border: 2px solid blue;
+        font-family: monospace;
+
+        
+
+    }
+    .feed{
+        background-color: turquoise;
+    }
+    .list:hover{
+      color: tomato;
+      width:30px;
+      background-color: seagreen;
+      border: 25px solid rgb(0, 0, 0);
+      border-radius: 10px;
+      transition-duration: 3s;
+       transition-timing-function: cubic-bezier(0.455, 0.03, 0.515, 0.955);
+       transition-delay: 3s;
+    }
+    .lmn{
+        color:red;
+        background-color: yellowgreen;
+    }
+    #username
+    {
+
+        background-color: orchid;
+    }
+    #but4
+    {
+
+        background-color: chartreuse;
+    }
+    #password
+    {
+        background-color: sandybrown;
+    }
